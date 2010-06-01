@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="biler.xslt"?>
+<biler>
+    <bil>
+        <make>Audi</make>
+        <model>A4</model>
+    </bil>
+    <bil>
+        <make>BMW</make>
+        <model>320i</model>
+    </bil>
+    <bil>
+        <make>Ford</make>
+        <model>Mondeo</model>
+    </bil>
+    <bil>
+        <make>Honda</make>
+        <model>Accord</model>
+    </bil>
+    <bil>
+        <make>Nissan</make>
+        <model>Primera</model>
+    </bil>
+    <bil>
+        <make>Renault</make>
+        <model>Megane</model>
+    </bil>
+</biler>
